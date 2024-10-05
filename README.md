@@ -1,4 +1,4 @@
-[![Hack Banner](https://github.com/loktar00/loktar00/raw/master/profilebanner.gif)](https://somethinghitme.com)
+<p align="center">[![Hack Banner](https://github.com/loktar00/loktar00/raw/master/profilebanner.gif)](https://somethinghitme.com)</p>
 
 ## TECHNICAL EXPERIENCE
 
