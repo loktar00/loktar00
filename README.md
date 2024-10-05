@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/loktar00/loktar00/raw/master/profilebanner.gif"/></p>
+<p align="center"><a href="https://somethinghitme.com"><img src="https://github.com/loktar00/loktar00/raw/master/profilebanner.gif" alt="loktar00"/></a></p>
 
 ## TECHNICAL EXPERIENCE
 
