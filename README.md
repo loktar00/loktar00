@@ -21,7 +21,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WebComponents](https://img.shields.io/badge/WebComponents-29ABE2?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-00549F?style=for-the-badge&logo=openai&logoColor=white) 
