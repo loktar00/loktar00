@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<p>Hey! I'm Jason, I like making things and helping others. </p>
+<p>Hey! I'm Jason. I love making things and helping others, with 25 years of software development experience spanning military and government contracting, startups, and large corporations. My programming journey began at age 8 on a Commodore 64, which I still enjoy firing up from time to time. As CTO and Engineering Manager, I lead our engineering vision and strategy while remaining connected to the team’s day-to-day through active work in frontend development.</p>
+<p>My current passions are striving to become a better leader and developing uses for Local LLMs merged with frontend technology.</p>
 <img src="https://img.shields.io/github/stars/loktar00"/>&nbsp;<img src="https://img.shields.io/github/followers/loktar00"/>&nbsp;<img src="https://img.shields.io/stackexchange/stackoverflow/r/322395"/>
   
 <h2>Tech Skills</h2>
