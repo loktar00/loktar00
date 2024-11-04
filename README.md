@@ -1,7 +1,11 @@
 <p align="center"><a href="https://somethinghitme.com"><img src="https://github.com/loktar00/loktar00/raw/master/profilebanner.gif" alt="loktar00"/></a></p>
 
 <div align="center">
-<h2>TECHNICAL EXPERIENCE</h2>
+
+<p>Hey! I'm Jason, I like making things and helping others. </p>
+<img src="https://img.shields.io/github/stars/loktar00"/>&nbsp;<img src="https://img.shields.io/github/followers/loktar00"/>&nbsp;<img src="https://img.shields.io/stackexchange/stackoverflow/r/322395"/>
+  
+<h2>Tech Skills</h2>
 
 | Languages          | Libraries/Frameworks | Tools               |
 | ------------------ | -------------------- | ------------------- |
