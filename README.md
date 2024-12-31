@@ -11,4 +11,4 @@
 
 
 
-![GHStars](https://img.shields.io/github/stars/loktar00)&nbsp; ![Followers](https://img.shields.io/github/followers/loktar00)&nbsp; ![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/322395)
+![GHStars](https://img.shields.io/github/stars/loktar00)&nbsp; ![Followers](https://img.shields.io/github/followers/loktar00)&nbsp; <a href="https://stackoverflow.com/users/322395/loktar"><img src="https://img.shields.io/stackexchange/stackoverflow/r/322395"/></a>
