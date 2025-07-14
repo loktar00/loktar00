@@ -28,4 +28,4 @@ Currently leading a team of six engineers while actively contributing code on a 
 
 ---
 
-🕹️ [RetroJS Emulator](https://github.com/loktar00/retrojs) · ⚙️ [React Lazy Load](https://github.com/loktar00/react-lazy-load) · ❄️ [jQuery Snowfall](https://github.com/loktar00/JQuery-Snowfall) · 🧠 [Local LLM Tools (WIP)](https://github.com/loktar00/gnomly-content-extension)
+🕹️ [RetroJS Emulator]([https://github.com/loktar00/retrojs](https://github.com/loktar00/chip8)) · ⚙️ [React Lazy Load](https://github.com/loktar00/react-lazy-load) · ❄️ [jQuery Snowfall](https://github.com/loktar00/JQuery-Snowfall) · 🧠 [Local LLM Tools (WIP)](https://github.com/loktar00/gnomly-content-extension)
