@@ -1,22 +1,14 @@
 ## Jason (loktar00)
 
-I'm a hands-on **Engineering Manager** and former **U.S. Air Force network operations and web applications lead**, with 25+ years of experience across military, government, startups, and large-scale platforms.
+I love development. I love coding. I love leading solutions. I love users.
 
-I started programming at age 8 on a Commodore 64 which I still fire up.
+My focus is on rapid prototyping, scalable frontend architecture, and LLM development and integration for next-gen user experiences.
 
-Currently leading a team of six engineers while actively contributing code on a mission-driven platform. My focus is on **rapid prototyping, scalable frontend architecture**, and **LLM integration** for next-gen user experiences.
-
-### 🔧 Tech I Work With
+### Tech I Work With
 - **Frontend:** React, TypeScript, Zustand, Next.js
-- **Backend:** Python, Django, PostgreSQL, REST APIs
-- **Infra:** Docker, GitHub Actions, Sentry, k8s (light)
+- **Backend:** Node, Python, PHP, PostgreSQL, REST APIs
+- **Infra:** Docker, GitHub Actions, Sentry
 - **AI/LLMs:** Local model integration (Ollama, llama.cpp), TTS, vision tasks, custom LoRA tuning
-
-### 🧠 What I Believe
-- Feedback loops > perfect plans  
-- Fast, validated learning beats delayed perfection  
-- Engineering should not buried in rituals
-
 ---
 
 ### 📈 GitHub Highlights
