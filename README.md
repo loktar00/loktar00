@@ -1,8 +1,10 @@
 ## Jason (loktar00)
 
-I love development. I love coding. I love leading solutions. I love users.
+I love development. I love coding. I love leading solutions. I love users. 
 
-My focus is on rapid prototyping, scalable frontend architecture, and LLM development and integration for next-gen user experiences.
+I love the direction we're moving with LLMs and AI, that's my current heavy focus.
+
+Insert some cheesy focus here that an LLM would throw in ;)
 
 ### Tech I Work With
 - **Frontend:** React, TypeScript, Zustand, Next.js
