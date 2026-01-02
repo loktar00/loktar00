@@ -13,9 +13,6 @@ Insert some cheesy focus here that an LLM would throw in ;)
 - **AI/LLMs:** Local model integration (Ollama, llama.cpp), TTS, vision tasks, custom LoRA tuning
 ---
 
-### 📈 GitHub Highlights
-|-------------------------------------------------------|-----------------------------------|
-
 ![GHStars](https://img.shields.io/github/stars/loktar00) ![Followers](https://img.shields.io/github/followers/loktar00) <a href="https://stackoverflow.com/users/322395/loktar"><img src="https://img.shields.io/stackexchange/stackoverflow/r/322395"/></a>
 
 ---
