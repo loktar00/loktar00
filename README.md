@@ -14,8 +14,6 @@ Insert some cheesy focus here that an LLM would throw in ;)
 ---
 
 ### 📈 GitHub Highlights
-
-| [![GitHub Streak](https://streak-stats.demolab.com?user=loktar00&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loktar00&show_icons=true&theme=radical&rank_icon=github) |
 |-------------------------------------------------------|-----------------------------------|
 
 ![GHStars](https://img.shields.io/github/stars/loktar00) ![Followers](https://img.shields.io/github/followers/loktar00) <a href="https://stackoverflow.com/users/322395/loktar"><img src="https://img.shields.io/stackexchange/stackoverflow/r/322395"/></a>
